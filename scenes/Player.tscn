@@ -63,7 +63,7 @@ type_mask = 15
 [node name="ShootTimer" type="Timer" parent="."]
 
 process_mode = 0
-wait_time = 0.01
+wait_time = 0.2
 one_shot = false
 autostart = true
 
